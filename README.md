@@ -34,5 +34,6 @@ v0.0.0
 
 # to-do:
 
-make automated build and usb formatting
-make git work
+* USE ISOS
+* make automated build and usb
+* make git work

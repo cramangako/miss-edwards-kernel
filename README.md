@@ -1,2 +1,2 @@
-# MissEdwardsOS
+# MissEdwardsKernel
 worse than hitler

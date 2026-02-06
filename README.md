@@ -32,3 +32,7 @@ then boom u got the official miss edwards kernel
 
 v0.0.0
 
+# to-do:
+
+make automated build and usb formatting
+make git work
